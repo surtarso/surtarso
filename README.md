@@ -20,6 +20,12 @@
 
 
 
+<div align="center">
+  <i>"Software is like sex: it's better when it's free." - Linus Torvalds</i>
+</div>
+
+
+
 
 <!--
 **surtarso/surtarso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
