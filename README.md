@@ -1,9 +1,7 @@
-<div align="center">
+<!-- <div align="center">
     <img height="200" src="https://github-readme-stats.vercel.app/api?username=surtarso&theme=dracula" alt="GitHub Stats" />
     <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=surtarso&layout=compact&langs_count=8&card_width=320&theme=dracula" alt="Top Languages" />
-</div>
-
----
+</div> -->
 
 <div align="center">
     
