@@ -1,3 +1,7 @@
+<div align="center">
+    <img width="1600" height="1600" alt="image" src="https://github.com/user-attachments/assets/e69b95a0-d642-4a84-9752-5bd3326b1084" />
+</div>
+
 <!-- <div align="center">
     <img height="200" src="https://github-readme-stats.vercel.app/api?username=surtarso&theme=dracula" alt="GitHub Stats" />
     <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=surtarso&layout=compact&langs_count=8&card_width=320&theme=dracula" alt="Top Languages" />
